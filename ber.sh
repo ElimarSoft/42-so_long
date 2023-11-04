@@ -1,0 +1,10 @@
+./so_long maps/classic.ber
+./so_long maps/empty.ber
+./so_long maps/ghosts.ber
+./so_long maps/google.ber
+./so_long maps/island.ber
+./so_long maps/medium.ber
+./so_long maps/min.ber
+./so_long maps/multipac.ber
+./so_long maps/run.ber
+./so_long maps/test.ber

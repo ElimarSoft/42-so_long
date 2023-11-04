@@ -6,7 +6,7 @@
 #    By: jsala-ba <jsala-ba@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/10/20 15:46:38 by jsala-ba          #+#    #+#              #
-#    Updated: 2023/11/03 20:04:10 by jsala-ba         ###   ########.fr        #
+#    Updated: 2023/11/04 13:06:20 by jsala-ba         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -82,4 +82,15 @@ re_bonus: fclean bonus
 
 os:
 	@echo $(OS)
+
+git:
+	git add *.h
+	git add *.c
+	git add Makefile
+	git add libft\*.h
+	git add libft\*.c
+	git add .lib/minilibx_opengl/mlx.h
+	git add .lib/minilibx_opengl/libmlx.a
+
+
 

@@ -1,3 +1,0 @@
-Quitar los <stdio.h> y la lectura de archivos fopen
-Hacer que solo imprima los pasos hechos.
-
